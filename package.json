@@ -1,0 +1,26 @@
+{
+  "name": "proyecto",
+  "version": "1.0.0",
+  "description": "proyecto",
+  "main": "index.js",
+  "engines": {
+  "node": ">=14.20.1"
+  },
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diego Betancur",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body": "^5.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.1.4",
+    "express": "^4.18.2",
+    "mongoose": "^7.3.0",
+    "moongose": "^1.0.0",
+    "nodemon": "^2.0.22",
+    "parser": "^0.1.4"
+  }
+}
